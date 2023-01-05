@@ -1,12 +1,12 @@
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Olá, mundo!
 
-👨‍🎓 Estudante do curso de Análise e desenvolvimento de sistemas, na Universidade Paulista <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='25' />
+### Estudante do curso de Análise e desenvolvimento de sistemas, na Universidade Paulista <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='25' />
 
-💻 Atualmente estou aprendendo desenvolvimento 📱 mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio, e <img src='https://emojis.slackmojis.com/emojis/images/1643514266/2351/kotlin.png?1643514266' width='15' /> Kotlin,.
+Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio, e <img src='https://emojis.slackmojis.com/emojis/images/1643514266/2351/kotlin.png?1643514266' width='15' /> Kotlin,.
 
 
 
-### 👨‍💻 Linguagens de programação aprendidas e aprendendo
+### Linguagens de programação aprendidas e aprendendo
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
@@ -14,7 +14,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/K-Kotlin-blueviolet)
 
-### ⚡ Technologias que tenho domínio 
+### Technologias que tenho domínio 
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
