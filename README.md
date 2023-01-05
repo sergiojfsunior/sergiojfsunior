@@ -10,7 +10,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
 ![Kotlin](https://img.shields.io/badge/K-Kotlin-blueviolet)
 
-### ⚡ Technologias que tenho dominio 
+### ⚡ Technologias que tenho domínio 
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
