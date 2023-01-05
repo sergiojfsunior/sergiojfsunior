@@ -1,6 +1,10 @@
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Olá, mundo!
 
-- 💻 Atualmente estou aprendendo desenvolvimento 📱 mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio, e <img src='https://emojis.slackmojis.com/emojis/images/1643514266/2351/kotlin.png?1643514266' width='15' /> Kotlin,.
+👨‍🎓 Estudante do curso de Análise e desenvolvimento de sistemas, na Universidade Paulista <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='25' />
+
+💻 Atualmente estou aprendendo desenvolvimento 📱 mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio, e <img src='https://emojis.slackmojis.com/emojis/images/1643514266/2351/kotlin.png?1643514266' width='15' /> Kotlin,.
+
+
 
 ### 👨‍💻 Linguagens de programação aprendidas e aprendendo
 
