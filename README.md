@@ -11,6 +11,7 @@
 
 Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio.
 
+---
 
 ### Linguagens de programação aprendidas e aprendendo
 
@@ -20,7 +21,7 @@ Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https:/
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
-### Tecnologias que utilizo 
+### Tecnologias que utilizo
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
