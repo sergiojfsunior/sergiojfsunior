@@ -36,7 +36,7 @@ Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https:/
 
 ### <p align="center"> 📈 Meu status do github  
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergiojfsunior&show_icons=true&theme=gotham" alt="sergiojfsunior" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergiojfsunior&show_icons=true&theme=shades-of-purple" alt="sergiojfsunior" />
 
 
 
