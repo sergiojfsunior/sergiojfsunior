@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Sergio_Junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiofrancojunior29@gmail.com)](mailto:sergiofrancojunior29@gmail.com)
 [![GitHub Sergio](https://img.shields.io/github/followers/sergiojfsunior?label=follow&style=social)](https://github.com/sergiojfsunior)
 
-Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio.
+### Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio.
 
 ---
 
