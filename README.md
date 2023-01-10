@@ -1,8 +1,13 @@
-### Olá, mundo! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
+### <p align="center"> Olá, mundo! <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' />
 
-### Estudante do curso de Análise e desenvolvimento de sistemas, na Universidade Paulista <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='25' />
+### Me chamo Sergio, sou estudante do curso de Análise e desenvolvimento de sistemas, na UNIP <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='25' />
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sergiojfsunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiojfsunior/)](https://www.linkedin.com/in/sergiojfsunior/)
+[![GitHub Sergio](https://img.shields.io/github/followers/sergiojfsunior?label=follow&style=social)](https://github.com/sergiojfsunior)
 
 Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio, e <img src='https://emojis.slackmojis.com/emojis/images/1643514266/2351/kotlin.png?1643514266' width='15' /> Kotlin,.
+
+### Meu e-mail [sergiofrancojunior29@gmail.com](mailto:abhishek.naidu@cred.club) :)
 
 
 
@@ -20,6 +25,10 @@ Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https:/
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+### <p align="center"> 📈 Meu status do github  
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergiojfsunior&show_icons=true&theme=gotham" alt="sergiojfsunior" />
 
 
 
