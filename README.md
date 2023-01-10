@@ -2,7 +2,7 @@
 
 
 
-### Me chamo Sergio, sou estudante do curso de Análise e desenvolvimento de sistemas, na UNIP <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='25' />
+### Me chamo Sergio, sou estudante do curso de Análise e desenvolvimento de sistemas, na <img src='https://files.passeidireto.com/078e9a68-f292-40d7-a872-97ae87114bc1/078e9a68-f292-40d7-a872-97ae87114bc1.png' width='50' />
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sergiojfsunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiojfsunior/)](https://www.linkedin.com/in/sergiojfsunior/)
@@ -14,18 +14,18 @@ Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https:/
 
 ### Linguagens de programação aprendidas e aprendendo
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-![Kotlin](https://img.shields.io/badge/K-Kotlin-blueviolet)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 
-### Technologias que tenho domínio 
+### Tecnologias que utilizo 
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
+![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+
+
 
 ---
 
