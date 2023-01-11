@@ -5,7 +5,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320">
 
-### Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white' width='150' />
+### Aprendendo desenvolvimento mobile, utilizando <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white' width='150' />
 
 ---
 
