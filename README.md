@@ -9,7 +9,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Sergio_Junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiofrancojunior29@gmail.com)](mailto:sergiofrancojunior29@gmail.com)
 [![GitHub Sergio](https://img.shields.io/github/followers/sergiojfsunior?label=follow&style=social)](https://github.com/sergiojfsunior)
 
-### Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://emojis.slackmojis.com/emojis/images/1643514485/4696/android_studio.png?1643514485' width='15' /> Android Studio.
+### Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white' width='150' />
 
 ---
 
@@ -21,23 +21,29 @@
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 
-### Tecnologias que utilizo
+### Tecnologias que possuo conhecimento e utilizo
 
 ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-
 ![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 ---
 
 ### <p align="center"> 📈 Meu status do github  
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sergiojfsunior&show_icons=true&theme=shades-of-purple" alt="sergiojfsunior" />
+  
+
+  
+  <p align='center'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiojfsunior&theme=synthwave">
 
 
 
