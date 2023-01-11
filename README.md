@@ -3,7 +3,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Sergiojfsunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiojfsunior/)](https://www.linkedin.com/in/sergiojfsunior/)
 [![Gmail Badge](https://img.shields.io/badge/-Sergio_Junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiofrancojunior29@gmail.com)](mailto:sergiofrancojunior29@gmail.com)
