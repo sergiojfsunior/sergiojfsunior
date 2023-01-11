@@ -3,11 +3,7 @@
 
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="350">
-
-[![Linkedin Badge](https://img.shields.io/badge/-Sergiojfsunior-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sergiojfsunior/)](https://www.linkedin.com/in/sergiojfsunior/)
-[![Gmail Badge](https://img.shields.io/badge/-Sergio_Junior-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sergiofrancojunior29@gmail.com)](mailto:sergiofrancojunior29@gmail.com)
-[![GitHub Sergio](https://img.shields.io/github/followers/sergiojfsunior?label=follow&style=social)](https://github.com/sergiojfsunior)
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="320">
 
 ### Atualmente estou aprendendo desenvolvimento mobile, utilizando <img src='https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white' width='150' />
 
