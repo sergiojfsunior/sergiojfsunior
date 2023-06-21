@@ -44,6 +44,9 @@
 
 
 
+![Visitor Count](https://profile-counter.glitch.me/sergiojfsunior/count.svg)
+
+
 
 
 
