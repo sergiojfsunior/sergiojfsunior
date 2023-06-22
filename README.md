@@ -3,7 +3,7 @@
 ## <p align="center"> Acesse meu   <a href="https://www.linkedin.com/in/sergiojfsunior/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
 
 
-## <p align="center"> <img align='center' src="https://ibb.co/gMcJnpv" width="200">
+## <p align="center"> <img align='center' src="https://yourimageshare.com/ib/23iLPk9bJe" width="200">
 
 
 
